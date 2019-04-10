@@ -1,1 +1,1 @@
-# android-activity-implicit
+# android-implicit-intent
