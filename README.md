@@ -5,6 +5,8 @@ This repository contains a practice project of android implicit intent.
 <p>There are two intents available in android:</p>
 *<p>Implicit Intents, and</p>
 *Explicit Intents.
+* The nature of computers and code, what they can and cannot do
+* How comput
 
 <h3>Implicit Intent</h3>
 <p>It going to connect with out side application such as call, mail, phone,see any website ..etc.</p>
